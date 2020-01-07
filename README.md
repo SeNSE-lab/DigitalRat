@@ -32,4 +32,5 @@ No associated manuscript. Authors are Quist BW, Faruqui RA, and Hartmann MJZ.
 
 ## Previous Releases
 [RatMap v1.1 MATLAB code](RatMap_Toolbox.zip)
+
 [Elastica2D v1.1 MATLAB code](elastica2D_v1_1.m)
