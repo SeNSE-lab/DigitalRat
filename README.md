@@ -21,7 +21,8 @@ The first version of Elastica2D was written by Joe Solomon for this publication:
 Brian Quist made several improvements to Elastica2D in this publication: Quist BW and Hartmann MJZ (2012) [Mechanical signals at the base of a rat vibrissa: the effect of intrinsic vibrissa curvature and implications for tactile exploration](quist_jneurophys_2012.pdf). Journal of Neurophysiology 107:2298-2312. 
 
 ### Code
-[E3D - MATLAB code v1.1](elastica3D_v1.m) Initial release of Elastica3D
+[E3D - MATLAB code v1.1](elastica3D_v1.m) Initial release of Elastica3D. Please rename the file to "elastica3D.m" for use.
+
 [E2D - MATLAB code v1.2](elastica2D.zip) This code now includes a guide to elastica2D.m
 
 
